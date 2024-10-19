@@ -15,7 +15,7 @@ function decodeValue(base, value) {
 
     return result;
 }
-// done  ye bato ki ooutput me ya dalu wha 
+
 function lagrangeInterpolation(points) {
     let c = BigInt(0); 
     const n = points.length;
